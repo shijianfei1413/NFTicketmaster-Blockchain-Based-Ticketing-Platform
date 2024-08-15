@@ -20,7 +20,7 @@ NFTicketmaster is a blockchain-based platform designed to revolutionize event ti
 
 ### 3. **Test Plan (PDF)**
    - **Description**: Provides a comprehensive test plan for the NFTicketmaster contract, covering functional, security, and performance tests to ensure reliability and security.
-   - **[View the Test Plan](path-to-your-pdf-file)**
+   - **[View the Test Plan](https://github.com/shijianfei1413/NFTicketmaster-Blockchain-Based-Ticketing-Platform/blob/20022f04d65524524074c512a4076f341ce6435d/Test%20Plan_Team%20Satoshi-1.pdf)**
 
 ### 4. **User Experience Journey (PDF)**
    - **Description**: Details the step-by-step user experience from account registration to ticket minting and trading, highlighting the platform's user-friendly design and security measures.
