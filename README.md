@@ -24,7 +24,7 @@ NFTicketmaster is a blockchain-based platform designed to revolutionize event ti
 
 ### 4. **User Experience Journey (PDF)**
    - **Description**: Details the step-by-step user experience from account registration to ticket minting and trading, highlighting the platform's user-friendly design and security measures.
-   - **[Explore the User Experience Journey](path-to-your-pdf-file)**
+   - **[Explore the User Experience Journey](https://github.com/shijianfei1413/NFTicketmaster-Blockchain-Based-Ticketing-Platform/blob/265be744f03df3549b466525eb987b05e180342d/User%20Experience%20Journey-1.pdf)**
 
 ### 5. **Business Workflow (PDF)**
    - **Description**: Visualizes the business process workflow, from initial ticket sales to secondary market trading, demonstrating the seamless interaction between users and the platform.
