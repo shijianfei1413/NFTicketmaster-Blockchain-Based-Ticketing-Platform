@@ -16,7 +16,7 @@ NFTicketmaster is a blockchain-based platform designed to revolutionize event ti
 
 ### 2. **Smart Contract (Solidity File)**
    - **Description**: The core of the platform, this Solidity contract implements the NFTicketmaster functionality, including ticket minting, trading, and security features.
-   - **[View the Smart Contract](path-to-your-sol-file)**
+   - **[View the Smart Contract](https://github.com/shijianfei1413/NFTicketmaster-Blockchain-Based-Ticketing-Platform/blob/01893ff443dc8bcd1556017109f52bbe5611d98e/NFTicketmaster_Final-1.sol)**
 
 ### 3. **Test Plan (PDF)**
    - **Description**: Provides a comprehensive test plan for the NFTicketmaster contract, covering functional, security, and performance tests to ensure reliability and security.
