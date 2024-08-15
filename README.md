@@ -12,7 +12,7 @@ NFTicketmaster is a blockchain-based platform designed to revolutionize event ti
 
 ### 1. **Business Plan (PDF)**
    - **Description**: Outlines the problem statement, market analysis, product concept, and a detailed timeline for the development and launch of the NFTicketmaster platform.
-   - **[Read the Business Plan](path-to-your-pdf-file)**
+   - **[Read the Business Plan](https://github.com/shijianfei1413/NFTicketmaster-Blockchain-Based-Ticketing-Platform/blob/7c9650f5069541dcaa962d6ecf03b33e63fc5a32/Satoshi_Business%20Plan-1.pdf)**
 
 ### 2. **Smart Contract (Solidity File)**
    - **Description**: The core of the platform, this Solidity contract implements the NFTicketmaster functionality, including ticket minting, trading, and security features.
