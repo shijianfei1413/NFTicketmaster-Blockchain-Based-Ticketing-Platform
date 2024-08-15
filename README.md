@@ -28,7 +28,7 @@ NFTicketmaster is a blockchain-based platform designed to revolutionize event ti
 
 ### 5. **Business Workflow (PDF)**
    - **Description**: Visualizes the business process workflow, from initial ticket sales to secondary market trading, demonstrating the seamless interaction between users and the platform.
-   - **[View the Business Workflow](path-to-your-pdf-file)**
+   - **[View the Business Workflow](https://github.com/shijianfei1413/NFTicketmaster-Blockchain-Based-Ticketing-Platform/blob/3ce4d19f68fabf3df12f55b8342eb68636070b6a/Business%20workflow-1.pdf)**
 
 ## Team
 - **Jianfei Shi**: Smart Contract Development
